@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menu2 APP</string>
+
+    <string-array name="picture">
+        <item>Picture 1</item>
+        <item>Picture 2</item>
+        <item>Picture 3</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id = "@+id/menu_game"
+          android:icon="@drawable/game"
+        android:title="Game"
+        android:showAsAction="always">
+
+        <menu>
+            <item  android:id="@+id/menu_mario"
+                   android:title="mario" />
+            <item  android:id ="@+id/menu_sonic"
+                   android:title="sonic"/>
+        </menu>
+
+    </item>
+
+    <item  android:id = "@+id/menu_radio"
+           android:title="Dialog radio" />
+
+    <item android:id = "@+id/menu_checkbox"
+          android:title="Dialog checkbox" />
+
+    <item android:id ="@+id/menu_reset"
+        android:title="reset" />
+
+</menu>

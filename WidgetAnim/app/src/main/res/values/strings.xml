@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WidgetAnim</string>
+
+    <string name="btn1">Button-1</string>
+    <string name="btn2">Button-2</string>
+    <string name="btn3">Button-3</string>
+    <string name="btn4">Button-4</string>
+    <string name="btn5">Button-5</string>
+    <string name="btn6">Button-6</string>
+    <string name="btn7">Button-7</string>
+    <string name="btn8">Button-8</string>
+    <string name="btn9">Button-9</string>
+    <string name="btn10">Button-10</string>
+
+    <string name="btn1_info">This is Picture 1.</string>
+    <string name="btn2_info">This is Picture 2.</string>
+    <string name="btn3_info">This is Picture 3.</string>
+    <string name="btn4_info">This is Picture 4.</string>
+    <string name="btn5_info">This is Picture 5.</string>
+    <string name="btn6_info">This is Picture 6.</string>
+    <string name="btn7_info">This is Picture 7.</string>
+    <string name="btn8_info">This is Picture 8.</string>
+    <string name="btn9_info">This is Picture 9.</string>
+    <string name="btn10_info">This is Picture 10.</string>
+
+</resources>
